@@ -26,6 +26,9 @@ export default function Home() {
         <Button variant="outline" size="lg" className="flex items-center gap-2">
           🇯🇵 日本語
         </Button>
+        <Button variant="outline" size="lg" className="flex items-center gap-2">
+          🇵🇭 Tagalog
+        </Button>
       </div>
     </main>
   );
